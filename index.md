@@ -18,4 +18,6 @@
 
 4. **What other techniques would you be interested in using in your project?**
    
-  I would be interested to create more features using existing features through statistics and mathematics. I would also like to learn new technologies while completing the project! 
+  I would be interested to create more features using existing features through statistics and mathematics. I would also like to learn new technologies while completing the project!
+
+  
