@@ -5,6 +5,7 @@
 **Mentor** - Benjaminn Smarr
 
 1. **What is the most interesting topic covered in your domain this quarter?**
+   
    The most interesting topic covered in my domain thsi year is how much data a device like apple watch hold about our daily health metrics. I found it interesting how visualising and organising a person's everyday data can help them and clinicians understand their possible undiagnosed diseases better!
 
 2. **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
